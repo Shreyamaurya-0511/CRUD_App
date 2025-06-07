@@ -49,7 +49,7 @@ Features:
 Screenshots:
 <img src="assets/images/3.png" height="400" width="200" />
 <img src="assets/images/2.png" height="400" width="200" />
-<img src="assets/images/1.png" height="200" width="200" />
+<img src="assets/images/1.png" height="400" width="200" />
 
 
 App Walkthrough:
